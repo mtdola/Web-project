@@ -1,0 +1,53 @@
+body{
+	background: url('geek-wallpapers-stugon.com-18-1024x640.jpg') no-repeat;
+	background-size: cover;
+	color: white;
+	padding: 0;
+	margin: 0;
+}
+.nav-bar{
+	background-color: grey;	
+}
+.nav-bar #navlist{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	color: white;
+	float: right;
+	display: block;
+}
+.nav-bar p{
+	color: white;
+	font-family: cursive;
+	font-variant: small-caps;
+	padding: 5px 30px;
+	display: inline-block;	
+
+}
+#navlist li{
+	display: inline-block;
+	padding: 15px 30px;
+}
+#navlist a{
+	text-decoration: none;
+}
+#navlist li:hover{
+	background-color: white;
+}
+.footer {
+			background-color: grey;
+			position: bottom;
+			margin-top: 195px;
+}
+footer{
+	background-color: grey;
+	background-size: ;
+	color: black;
+	bottom: 0;
+	position: absolute;
+	padding: 10px 30px;
+	left: 0;
+	right: 0;
+	display: block;
+	text-align: center;
+}
